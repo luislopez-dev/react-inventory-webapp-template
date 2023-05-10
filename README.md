@@ -1,6 +1,4 @@
-# React.js ecommerce management dashboard (In progress)
-
-![alt text](https://www.gokiebox.com/comparte/wp-content/uploads/2018/07/tienda-virtual-1.png)
+# React.js ecommerce management dashboard
 
 ## Table of contents
 

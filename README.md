@@ -7,7 +7,7 @@
 * [Installation](#installation)
 * [Run](#run)
 * [Pages](#endpoints)
-* [API calls](#api-calls)
+* [API endpoints](#api-calls)
 * [Licence](#licence)
 
 ## Introduction

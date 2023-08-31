@@ -21,22 +21,6 @@ Ecommerce management dashboard designed for managing online stores
 * React-router
 * NPM
 
-## Installation
-
-
-1. Clone this repository `git clone React.js-ecommerce-management-dashboard`
-
-2. Go to the project `cd React.js-ecommerce-management-dashboard`
-
-3. Install the project dependencies `npm install`
-
-
-## Run
-
-* For development and testing purposes run `npm run serve` in order to start the application
-
-* For deployment and production ready run `npm run build`. This command builds the production application
-
 ## Pages
 
 ### Login

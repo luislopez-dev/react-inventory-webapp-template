@@ -4,8 +4,6 @@
 
 * [Introduction](#introduction)
 * [Technology](#technology)
-* [Installation](#installation)
-* [Run](#run)
 * [Pages](#endpoints)
 * [API endpoints](#api-calls)
 * [Licence](#licence)

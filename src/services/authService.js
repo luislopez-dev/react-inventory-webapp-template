@@ -1,3 +1,8 @@
+/*
+ * Author: Luis López
+ * Website: https://github.com/luislopez-dev
+ * Description: Training Project
+ */
 import axios from "axios";
 const api_base_url = "http://localhost:8080/api/auth";
 

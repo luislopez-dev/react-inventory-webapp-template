@@ -1,3 +1,8 @@
+/*
+ * Author: Luis López
+ * Website: https://github.com/luislopez-dev
+ * Description: Training Project
+ */
 import { Form, Button, Container, Row, Col, Image } from "react-bootstrap";
 import { getProduct, updateProduct } from "../services/productsService";
 import { useEffect, useState } from "react";

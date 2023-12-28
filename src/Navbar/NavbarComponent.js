@@ -1,3 +1,8 @@
+/*
+ * Author: Luis López
+ * Website: https://github.com/luislopez-dev
+ * Description: Training Project
+ */
 import {Container, Navbar, Nav, Button} from "react-bootstrap"
 
 function logout(){

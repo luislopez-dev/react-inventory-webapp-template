@@ -1,3 +1,8 @@
+/*
+ * Author: Luis López
+ * Website: https://github.com/luislopez-dev
+ * Description: Training Project
+ */
 import { useEffect, useState } from "react";
 import { queryItem, getProducts, deleteProduct } from "../services/productsService";
 import { Button, Row, Table, Container, Modal, Image, Pagination, Form, FormControl, InputGroup} from "react-bootstrap";

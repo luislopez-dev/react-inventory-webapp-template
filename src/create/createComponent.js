@@ -1,3 +1,8 @@
+/*
+ * Author: Luis López
+ * Website: https://github.com/luislopez-dev
+ * Description: Training Project
+ */
 import { useState } from "react";
 import { createProduct } from "../services/productsService";
 import { Form, Button, Container, Row, Col } from "react-bootstrap";

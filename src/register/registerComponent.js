@@ -1,3 +1,8 @@
+/*
+ * Author: Luis López
+ * Website: https://github.com/luislopez-dev
+ * Description: Training Project
+ */
 import { Form, Button, Container, Row, Image, Col } from "react-bootstrap";
 import { register } from '../services/authService';
 import { useState } from "react";

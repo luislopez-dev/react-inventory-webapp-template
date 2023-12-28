@@ -1,3 +1,8 @@
+/*
+ * Author: Luis López
+ * Website: https://github.com/luislopez-dev
+ * Description: Training Project
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';

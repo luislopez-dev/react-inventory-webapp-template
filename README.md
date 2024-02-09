@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Ecommerce management dashboard designed for managing online stores
+Ecommerce management dashboard designed for managing online stores. Developed with love ❤️ by [Luis López](https://github.com/luislopez-dev).
 
 ## Technology
 

@@ -1,4 +1,4 @@
-# React.js ecommerce management dashboard
+# React.js admin dashboard template
 
 ## Table of contents
 

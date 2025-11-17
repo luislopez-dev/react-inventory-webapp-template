@@ -4,20 +4,17 @@
 
 * [Introduction](#introduction)
 * [Technology](#technology)
-* [Pages](#endpoints)
-* [Shoppincart Template](#shoppingcart-template)
-* [API endpoints](#api-calls)
+* [Pages](#pages)
 
 ## Introduction
 
-Ecommerce management dashboard designed for managing online stores. Developed with love ❤️ by [Luis López](https://github.com/luislopez-dev).
+Ecommerce management dashboard designed for managing online stores. Developed by [Luis López](https://github.com/luislopez-dev).
 
 ## Technology
 
 * React.js
 * React Bootstrap
 * React-router
-* NPM
 
 ## Pages
 
@@ -65,13 +62,4 @@ Ecommerce management dashboard designed for managing online stores. Developed wi
 
 ![alt text](https://i.imgur.com/OiYG10i.png)
 
-## Shoppincart Template
-
-<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> https://github.com/luislopez-dev/Nextjs-shoppingcart-template
-
-### Support
-
-If you enjoy my work, you are welcome to buying me a coffee on Buy Me a Coffee! It's a small gesture that goes a long way. Thank you for your support! ☕️<br> 
-<a href="https://www.buymeacoffee.com/luislopez" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-* Copyright 2021-2024 © [Luis Lopez](https://github.com/luislopez-dev)
+* Project Created by © [Luis Lopez](https://github.com/luislopez-dev)

@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Ecommerce management dashboard designed for managing online stores. Developed by [Luis López](https://github.com/luislopez-dev).
+Inventoy webapp template in react.js. Developed by [Luis López](https://github.com/luislopez-dev).
 
 ## Technology
 

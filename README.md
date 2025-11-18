@@ -1,4 +1,4 @@
-# React.js admin dashboard template
+# React.js inventoy webapp  template
 
 ## Table of contents
 
